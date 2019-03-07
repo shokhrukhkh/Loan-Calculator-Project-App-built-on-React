@@ -5,10 +5,11 @@ Welcome
 This is Loan Calculator App visit <a href="https://loancalculatorapp.netlify.com/" target="_blank">here</a> to see how it works
 
 Installing it.
-Write on your terminal:
+Write on your terminal after cloning the project from GitHub:
 
 <pre>
 npm install
+
 npm start 
 </pre>
 App: 
