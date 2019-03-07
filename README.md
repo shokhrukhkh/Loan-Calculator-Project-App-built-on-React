@@ -1,7 +1,7 @@
 # 1-reactProject
 Welcome
 
-This is Loan Calculator App visit <a href="https://loancalculatorapp.netlify.com/">here</a>
+This is Loan Calculator App visit <a href="https://loancalculatorapp.netlify.com/" target="_blank">here</a>
 
 Installing it.
 Write on your terminal:
