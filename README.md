@@ -1,7 +1,8 @@
-# 1-reactProject
+# Loan-Calculator-Project-App-built-on-React
+
 Welcome
 
-This is Loan Calculator App visit <a href="https://loancalculatorapp.netlify.com/" target="_blank">here</a>
+This is Loan Calculator App visit <a href="https://loancalculatorapp.netlify.com/" target="_blank">here</a> to see how it works
 
 Installing it.
 Write on your terminal:
